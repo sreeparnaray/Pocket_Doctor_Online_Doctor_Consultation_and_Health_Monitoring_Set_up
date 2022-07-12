@@ -1,2 +1,9 @@
 # Pocket_Doctor_Online_Doctor_Consultation_and_Health_Monitoring_Set_up
-This paper talks about Online Doctor Consultation &amp; Health Monitoring Set-up, which monitors the patient without needing them to visit the doctor in person. This system implemented using IoT also enables the doctor to store the patient data for future reference. The doctor and the patient can interact with each other using a video conference, the doctors can prescribe the treatment, and all of this is made feasible by this platform.  This module provides the opportunity for all-day service and patient monitoring for the doctor, with the bonus of being notified in any case of an emergency.  This platform forms a great use when a patient is under regular medical check-ups or home care for a long time.
+
+![Screenshot (1890)](https://user-images.githubusercontent.com/67807475/178465523-c64bb752-5368-425c-bec5-927d9c28a2e2.png)
+![Screenshot (1891)](https://user-images.githubusercontent.com/67807475/178466495-756f2b50-c5d2-47da-bfd1-0933a4317500.png)
+![Screenshot (1874)](https://user-images.githubusercontent.com/67807475/178466597-8b6e2ed0-2d36-43bc-9e40-88845e89f644.png)
+![Screenshot (1882)](https://user-images.githubusercontent.com/67807475/178466737-6a66dc21-6a94-49ea-8658-b3f4ac742bf3.png)
+![Screenshot (1883)](https://user-images.githubusercontent.com/67807475/178466864-f50e29d0-8afe-4ca8-ad37-f0cd8336dbe1.png)
+![Screenshot (1884)](https://user-images.githubusercontent.com/67807475/178467108-4eaadf61-916e-49ab-9119-bbe556759608.png)
+![Screenshot (1885)](https://user-images.githubusercontent.com/67807475/178467137-99cae091-7e3e-4c86-ba12-acec057668cf.png)
